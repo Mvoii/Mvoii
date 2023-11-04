@@ -1,4 +1,4 @@
-### Hi there 👋
+###<div align="center"> Hi there 👋</div>
 ### <div align="center">I'm Franklin Mvoi, an aspiring full-stack developer 👨‍💻 🚀</div> 
 
 
