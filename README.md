@@ -1,4 +1,4 @@
-###<div align="center"> Hi there 👋</div>
+### <div align="center"> Hi there 👋</div>
 ### <div align="center">I'm Franklin Mvoi, an aspiring full-stack developer 👨‍💻 🚀</div> 
 
 
@@ -10,4 +10,3 @@
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...-->
 - ⚡ Fun fact:  I use tabs over spaces
-- 
