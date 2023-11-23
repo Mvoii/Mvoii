@@ -3,6 +3,6 @@
 
 
 <!-- 🔭 I’m currently working on [movie-watchlist](https://github.com/Mvoii/movie-watchlist)-->
-- 🌱 I’m currently learning learning Python and React
+- 🌱 I’m currently learning learning Python but love C/C++
 - 👯 I’m open to collaborate on interesting projects
 - ⚡ Fun fact:  I'm batman
