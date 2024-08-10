@@ -1,6 +1,6 @@
 <!--### Hi there 👋-->
-### I'm Mvoi, a SWE
-### A UAV, robotics enthusiast
+### I'm Mvoi, a code enjoyer
+<!--### A UAV, robotics enthusiast-->
 
 
 <!-- 🔭 I’m currently working on [movie-watchlist](https://github.com/Mvoii/movie-watchlist)-->
